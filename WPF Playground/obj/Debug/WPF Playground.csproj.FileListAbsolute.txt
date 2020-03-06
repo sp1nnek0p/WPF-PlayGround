@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\WPF Playground\WPF Playground\bin\Debug\WPF Playground.exe.config
+C:\Users\Administrator\source\repos\WPF Playground\WPF Playground\bin\Debug\WPF Playground.exe
+C:\Users\Administrator\source\repos\WPF Playground\WPF Playground\bin\Debug\WPF Playground.pdb
+C:\Users\Administrator\source\repos\WPF Playground\WPF Playground\obj\Debug\WPF Playground.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WPF Playground\WPF Playground\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\WPF Playground\WPF Playground\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\WPF Playground\WPF Playground\obj\Debug\WPF Playground_MarkupCompile.cache
+C:\Users\Administrator\source\repos\WPF Playground\WPF Playground\obj\Debug\WPF Playground_MarkupCompile.lref
+C:\Users\Administrator\source\repos\WPF Playground\WPF Playground\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\WPF Playground\WPF Playground\obj\Debug\WPF Playground.g.resources
+C:\Users\Administrator\source\repos\WPF Playground\WPF Playground\obj\Debug\WPF_Playground.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WPF Playground\WPF Playground\obj\Debug\WPF Playground.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WPF Playground\WPF Playground\obj\Debug\WPF Playground.exe
+C:\Users\Administrator\source\repos\WPF Playground\WPF Playground\obj\Debug\WPF Playground.pdb
